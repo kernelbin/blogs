@@ -1,5 +1,5 @@
 ---
-title: cet-endbr
+title: CET 中的 ENDBR64 指令
 tags:
   - 技术
   - 汇编
