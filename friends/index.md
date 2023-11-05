@@ -115,3 +115,22 @@ date: 2023-01-20 23:01:44
     </div>
   </article>
 <a>
+
+<a class="box" href="https://s8k.top/">
+  <article class="media">
+    <figure class="media-left">
+      <p class="image is-64x64">
+        <img class="is-rounded" src="/img/s8k.png">
+      </p>
+    </figure>
+    <div class="media-content">
+      <div class="content">
+        <p>
+          <strong>Seraph JACK</strong>
+          <br>
+        SJ for short
+        </p>
+      </div>
+    </div>
+  </article>
+<a>
