@@ -7,7 +7,7 @@ date: 2023-01-20 23:01:44
   <article class="media">
     <figure class="media-left">
       <p class="image is-64x64">
-        <img class="is-rounded" src="/img/menci.png">
+        <img class="is-rounded" src="/img/avatars/menci.png">
       </p>
     </figure>
     <div class="media-content">
@@ -26,7 +26,7 @@ date: 2023-01-20 23:01:44
   <article class="media">
     <figure class="media-left">
       <p class="image is-64x64">
-        <img class="is-rounded" src="/img/rei.png">
+        <img class="is-rounded" src="/img/avatars/rei.png">
       </p>
     </figure>
     <div class="media-content">
@@ -45,7 +45,7 @@ date: 2023-01-20 23:01:44
   <article class="media">
     <figure class="media-left">
       <p class="image is-64x64">
-        <img class="is-rounded" src="/img/mnfe.png">
+        <img class="is-rounded" src="/img/avatars/mnfe.png">
       </p>
     </figure>
     <div class="media-content">
@@ -64,7 +64,7 @@ date: 2023-01-20 23:01:44
   <article class="media">
     <figure class="media-left">
       <p class="image is-64x64">
-        <img class="is-rounded" src="/img/icy.png">
+        <img class="is-rounded" src="/img/avatars/icy.png">
       </p>
     </figure>
     <div class="media-content">
@@ -83,7 +83,7 @@ date: 2023-01-20 23:01:44
   <article class="media">
     <figure class="media-left">
       <p class="image is-64x64">
-        <img class="is-rounded" src="/img/c10s.png">
+        <img class="is-rounded" src="/img/avatars/c10s.png">
       </p>
     </figure>
     <div class="media-content">
@@ -101,7 +101,7 @@ date: 2023-01-20 23:01:44
   <article class="media">
     <figure class="media-left">
       <p class="image is-64x64">
-        <img class="is-rounded" src="/img/mauve.png">
+        <img class="is-rounded" src="/img/avatars/mauve.png">
       </p>
     </figure>
     <div class="media-content">
@@ -120,7 +120,7 @@ date: 2023-01-20 23:01:44
   <article class="media">
     <figure class="media-left">
       <p class="image is-64x64">
-        <img class="is-rounded" src="/img/s8k.png">
+        <img class="is-rounded" src="/img/avatars/s8k.png">
       </p>
     </figure>
     <div class="media-content">
